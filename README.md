@@ -2,4 +2,4 @@
 
 Dataset: penguins_size.csv 
 
-This is a project that was implemented as a part of my Machine Learning and Pattern Recognition course in my university. Exploratory data analysis was performed on the Penguin dataset (penguins_size.csv). The two split ratios of training, validation and test: 80-10-10 and 60-20-20 were used for analyzing the dataset. Linear Regression, Support Vector Machine and Random Forest algorithms were used to implement GridSearchCV to find optimal hyperparameters. 
+Predictive approach of ML was used to determine the class of penguin species. Two different ratios (60-20-20 & 80-10-10) of training, validation and test data were used to determine the performance of the models. Hyperparameter tuning was performed on SVM, LR and RF algorithms. Evaluation metrics like accuracy, precision, recall, and latency were used to compare the performance.
